@@ -7,7 +7,7 @@ tasks:
       - task --list-all
 
   dev:
-   desc: Runs the applicatin with 'air' for live reload on code change
+   desc: Runs the application with 'air' for live reload on code change
    cmds:
      - PORT=8080 air
 
